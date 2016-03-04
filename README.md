@@ -4,11 +4,11 @@ Briefly describe your app here.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Robin Hu ([robinhu510@berkeley.edu](mailto:robinhu510@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Represent!] (https://www.youtube.com/watch?v=Es2OMXjBcDc)
 
 ## Screenshots
 
