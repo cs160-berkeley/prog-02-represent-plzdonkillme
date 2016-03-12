@@ -1,6 +1,7 @@
 # PROG 02: Represent!
 
-Briefly describe your app here.
+Represent! is a mobile/smartwatch app that displays information about House Representatives and
+Senators. You can easily find representatives based off of ZIP code or current location.
 
 ## Authors
 
@@ -23,5 +24,5 @@ See [Represent!] (https://youtu.be/cCqyaBto7ZM)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+* CS160 staff
+
